@@ -1,0 +1,42 @@
+.main {
+    height: 500px;
+    width: 500px;
+    background-color: rgb(4, 101, 80);
+    position: relative;
+    left: 35%;
+    top: 100px;
+}
+
+.sub{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(43, 53, 195);
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: black;
+    position: absolute;
+}
+
+#BOX2 {
+    right: 0px;
+}
+
+#BOX3{
+    bottom: 0px;
+}
+
+#BOX4 {
+    right: 0px;
+    bottom: 0px;
+}
+
+#BOX5{
+    top: 100px;
+    left: 100px;
+}
